@@ -1,1 +1,1 @@
-web gunicorn bolao.wgsi:application --log-file
+web gunicorn bolao.wsgi:application --log-file
