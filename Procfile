@@ -1,0 +1,1 @@
+web gunicorn bolao.wgsi:application --log-file -
